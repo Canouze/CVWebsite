@@ -53,3 +53,9 @@ h4{
 #coverlettertext{
 	text-align: left;
 }
+
+.row{
+	margin-top: 100px;
+	min-height: 100px;
+	justify-content: Space-between;
+}
